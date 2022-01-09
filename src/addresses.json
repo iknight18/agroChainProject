@@ -1,0 +1,18 @@
+{
+    "farmers":[
+        "0x121d6994A5a95Cc19b1b36eC13E2e1E733a441C1",
+        "0x3984467F0E2C98b39b5D9ce2eabfa5c0c254EB79",
+        "0xC3921091BCA02a79c716D29f21314c6caea420E4"
+    ],
+    "quality":[
+        "0x0ade91E735B30a6CF8E6Eb2761AD51EE5BF2096B",
+        "0xB93B5164Fe9cCBFd6608903e6902867bfd4C068b"
+    ],
+    "finance":[
+        "0x277c5302eA4c6aEB03aAE034966517E612158DdB",
+        "0x25B95B1eBB8A5994e9780d645503aFeCff1F9981"
+    ],
+    "supplier":[
+        "0x71ee7b4d17f3d4D1914Bf5E2fe971D61a1c386e9"
+    ]
+}
